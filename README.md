@@ -10,4 +10,11 @@
 * tinyGSM.h (Cloud IoT / Cellular)
 * http.h (Client for HTTP Requests)
 
-( C ) - Binary Kore, 09225205353
+## Copyright (2023):
+
+( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
+
+
+
+
+
