@@ -7,7 +7,7 @@
 ## Libraries:
 
 * regex.h (Regular Expression)
-* tinyGSM.h (Cloud IoT / Cellular)
+* tinyGSM.h (Cloud - Internet of Things / Cellular)
 * http.h (Client for HTTP Requests)
 
 ## Copyright (2023):
